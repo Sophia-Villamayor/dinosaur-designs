@@ -16,14 +16,15 @@ figcaption {
   font-style: italic;
   text-align: center;
 }
-nav {font-family
+nav {
+  font-family;
   font-size: 1.125rem;
   font-weight: bold;
 }
 nav ol {
   list-style-type: none;
 }
-nav a {hover
+nav a {
   color: #b42885;
   text-decoration: underline;
 }
