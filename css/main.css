@@ -3,9 +3,7 @@ html {
   font-family: Georgia, serif;
   line-height: 1.5;
 }
-img {
-  width: 100%;
-}
+img {width: 100%;}
 h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
@@ -16,7 +14,7 @@ figcaption {
   font-style: italic;
   text-align: center;
 }
-nav {
+nav {font-family
   font-size: 1.125rem;
   font-weight: bold;
 }
